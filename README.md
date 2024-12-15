@@ -1,4 +1,4 @@
-# Onyxtec_Assessment
+# Weather App
 This is the Complete WeatherApp having functionalities.
 •	Login
 •	Signup
